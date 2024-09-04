@@ -2,11 +2,8 @@
 <img src="https://github.com/user-attachments/assets/ba8363a7-4b55-46d3-a947-f0b1c2634309" width=40% height=40%>
 
 Recommended hardware https://shop.m5stack.com/products/atomic-rs232-base-w-o-atom-lite?variant=43992197693697
-
+also get the S3 Nano Lite for a total less than $20 https://shop.m5stack.com/products/atoms3-lite-esp32s3-dev-kit
 <img src="https://github.com/user-attachments/assets/61d543c1-f6c2-4192-aaae-f4c8ebd4f595" width=50% height=50%>
-
-+ the S3 Nano Lite for a total less than $20 https://shop.m5stack.com/products/atoms3-lite-esp32s3-dev-kit
-  
 <img src="https://github.com/user-attachments/assets/ed473efa-b41e-4859-ba22-4957d99729a6" width=50% height=50%>
 
 Example response to MODBUS request https://midniteftp.com/forum/index.php?topic=4880.30
