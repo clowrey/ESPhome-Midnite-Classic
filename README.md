@@ -1,9 +1,13 @@
-![image](https://github.com/user-attachments/assets/ba8363a7-4b55-46d3-a947-f0b1c2634309)
+
+<img src="https://github.com/user-attachments/assets/ba8363a7-4b55-46d3-a947-f0b1c2634309" width=40% height=40%>
 
 Recommended hardware https://shop.m5stack.com/products/atomic-rs232-base-w-o-atom-lite?variant=43992197693697
-![image](https://github.com/user-attachments/assets/61d543c1-f6c2-4192-aaae-f4c8ebd4f595)
+
+<img src="https://github.com/user-attachments/assets/61d543c1-f6c2-4192-aaae-f4c8ebd4f595" width=50% height=50%>
+
 + the S3 Nano Lite for a total less than $20 https://shop.m5stack.com/products/atoms3-lite-esp32s3-dev-kit
-![image](https://github.com/user-attachments/assets/ed473efa-b41e-4859-ba22-4957d99729a6)
+  
+<img src="https://github.com/user-attachments/assets/ed473efa-b41e-4859-ba22-4957d99729a6" width=50% height=50%>
 
 Example response to MODBUS request https://midniteftp.com/forum/index.php?topic=4880.30
 
@@ -11,14 +15,13 @@ Modbus debugging terminal tool https://github.com/ClassicDIY/ModbusTool
 
 NodeRed example https://flows.nodered.org/flow/b1e47c5b460931c4407d662fbb4ed85f
 
-![image](https://github.com/user-attachments/assets/ab5bd3e6-311f-4b11-b49e-4b123c795ced)
+<img src="https://github.com/user-attachments/assets/ab5bd3e6-311f-4b11-b49e-4b123c795ced" width=70% height=70%>
 
-
-![image](https://github.com/user-attachments/assets/9bf73787-1a18-4118-97fd-0974a79dd33c)
+<img src="https://github.com/user-attachments/assets/9bf73787-1a18-4118-97fd-0974a79dd33c" width=70% height=70%>
 
 I use the middle port which also includes 9V output to power it. Connect RX=TX, TX=RX. 
-![image](https://github.com/user-attachments/assets/31c895c0-dd7c-45ff-8b5f-bc68f252754a)
 
+<img src="https://github.com/user-attachments/assets/31c895c0-dd7c-45ff-8b5f-bc68f252754a" width=50% height=50%>
 
 Debugging example:
 ```yaml
