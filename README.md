@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/ba8363a7-4b55-46d3-a947-f0b1c2634309" width=40% height=40%>
 
 
-Recommended hardware https://shop.m5stack.com/products/atomic-rs232-base-w-o-atom-lite?variant=43992197693697
+Recommended hardware https://shop.m5stack.com/products/atomic-rs232-base-w-o-atom-lite
 
 
 also get the S3 Nano Lite for a total less than $20 https://shop.m5stack.com/products/atoms3-lite-esp32s3-dev-kit
