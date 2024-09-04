@@ -15,7 +15,8 @@ NodeRed example https://flows.nodered.org/flow/b1e47c5b460931c4407d662fbb4ed85f
 ![image](https://github.com/user-attachments/assets/9bf73787-1a18-4118-97fd-0974a79dd33c)
 
 I use the middle port which also includes 9V output to power it. Connect RX=TX, TX=RX. 
-![image](https://github.com/user-attachments/assets/3bfb6ce6-9aad-4ebb-980b-b755893a12dd)
+![image](https://github.com/user-attachments/assets/31c895c0-dd7c-45ff-8b5f-bc68f252754a)
+
 
 Debugging example:
 ```yaml
